@@ -54,7 +54,9 @@
 - 🌱 I’m currently learning n8n.  
 - 🔍 Passions: Exploring AI/ML more, love cooking, and designing.  
 - 📫 How to reach me: gkartikuk@gmail.com (quickest option).  
-- 😄 Pronouns: he/him  
+- 😄 Pronouns: he/him
+- 📄 [View My Resume](./OFFCAMPUS_DA_RESUME_OVERLEAF.pdf)
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
