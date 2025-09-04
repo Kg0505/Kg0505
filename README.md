@@ -29,9 +29,6 @@
   />
 </div>
 
-
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
@@ -41,9 +38,9 @@
   A little more about me...
 </h2>
 
-- 🎓 Final year Civil Engineering undergrad at NIT Trichy.  
+- 🎓 Final year undergrad at NIT Trichy.  
 - 🌱 I’m currently learning n8n.  
-- 🔍 Passions: Exploring EIML more, love cooking, and designing.  
+- 🔍 Passions: Exploring AI/ML more, love cooking, and designing.  
 - 📫 How to reach me: gkartikuk@gmail.com (quickest option).  
 - 😄 Pronouns: he/him  
 
@@ -125,23 +122,21 @@
 </p>
 
 <h2>📊 GitHub Stats</h2>
-<div style="text-align: center;">
 
-  <!-- First row: two images side by side -->
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kg0505&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" />
-  </div>
-
-  <div style="display: inline-block; margin-left: 10px;">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Kg0505&theme=dracula&hide_border=false" />
-  </div>
-
-  <!-- Second row: third image -->
-  <div style="margin-top: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kg0505&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-  </div>
-
+<!-- First row with 2 images side by side -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kg0505&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kg0505&theme=dracula&hide_border=false" />
 </div>
+
+<!-- Second row with 1 centered image -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kg0505&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+
+
+
 
 
 <p align="center">
