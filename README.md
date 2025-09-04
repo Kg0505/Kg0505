@@ -21,13 +21,16 @@
 </div>
 
 <!-- Profile Visitor Counter -->
-<div style="width: max-content; margin: 50px auto; padding: 20px 40px; border: 2px solid #46b9b9; border-radius: 10px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Kg0505&style=for-the-badge&color=46b9b9&label=You+are+Visitor" 
-    alt="GitHub Profile Views Counter" 
-    style="display: inline-block;"
-  />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=Kg0505&style=for-the-badge&color=46b9b9&label=You+are+Visitor" alt="GitHub Profile Views Counter" />
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
