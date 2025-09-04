@@ -1,23 +1,40 @@
-<div align="center">
-
-  <!-- Typing SVG: Hi I'm Kartik -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Kartik+Garg;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%97+%E0%A4%B9%E0%A5%82%E0%A4%81" alt="Typing SVG" />
-  </a>
-
-  <br>
-
-  <!-- Funny Deadline Line -->
-  <p><em>Currently in a long-term relationship with my deadlines… they never leave me. 
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JrN295N2FrbDg2NzRtczVlNzM5aDlyM3cwOTVzZTl2cm94djRibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwxy5MXUWDKlUtQatg/giphy.gif" width="50" align="absmiddle"">
-  </em></p>
-
-  <br>
-
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=Kg0505&style=for-the-badge&color=46b9b9&label=You+are+Visitor" alt="GitHub Profile Views Counter" />
-
+<!-- Typing SVG: Hi I'm Kartik -->
+<div style="width: 100%; text-align: center; margin-top: 20px;">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Kartik+Garg;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%97+%E0%A4%B9%E0%A5%82%E0%A4%81" 
+    alt="Typing SVG" 
+    style="display: inline-block;"
+  />
 </div>
+
+<!-- Funny Deadline Line -->
+<div style="width: 100%; text-align: center; margin-top: 20px;">
+  <p style="display: inline-block;">
+    <em>Currently in a long-term relationship with my deadlines… they never leave me. 
+      <img 
+        src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JrN295N2FrbDg2NzRtczVlNzM5aDlyM3cwOTVzZTl2cm94djRibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwxy5MXUWDKlUtQatg/giphy.gif" 
+        width="20" 
+        style="vertical-align: middle;"
+      >
+    </em>
+  </p>
+</div>
+
+<!-- Profile Visitor Counter -->
+<div style="width: max-content; margin: 50px auto; padding: 20px 40px; border: 2px solid #46b9b9; border-radius: 10px; text-align: center; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Kg0505&style=for-the-badge&color=46b9b9&label=You+are+Visitor" 
+    alt="GitHub Profile Views Counter" 
+    style="display: inline-block;"
+  />
+</div>
+
+
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 
 <h2> 
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"  align="absmiddle"> 
@@ -54,7 +71,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 
 <h2>🛠️ Tools & Skills</h2>
 
@@ -101,22 +120,32 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
+</p>
 
 <h2>📊 GitHub Stats</h2>
+<div style="text-align: center;">
+
+  <!-- First row: two images side by side -->
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kg0505&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" />
+  </div>
+
+  <div style="display: inline-block; margin-left: 10px;">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Kg0505&theme=dracula&hide_border=false" />
+  </div>
+
+  <!-- Second row: third image -->
+  <div style="margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kg0505&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  </div>
+
+</div>
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kg0505&theme=dracula&hide_border=false&include_all_commits=true&count_private=false"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kg0505&theme=dracula&hide_border=false"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kg0505&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+  <img src="https://user-images.githubusercontent.com/48355572/209539106-8e1cbfc6-2f3d-4afd-b96a-890d967dd9ab.png">
 </p>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Kg0505&icon=0&color=1" alt="Profile Visit Count"/>
-  </a>
-</p>
-
----
 
