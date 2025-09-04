@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/XAheli/XAheli/blob/main/ghibli.gif" />
+  <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/Kg0505/Kg0505/blob/main/A_portrait_of_202509041230.gif" />
 
 </div>
 
