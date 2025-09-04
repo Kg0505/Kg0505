@@ -1,11 +1,31 @@
-<!-- Typing SVG: Hi I'm Kartik -->
-<div style="width: 100%; text-align: center; margin-top: 20px;">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Kartik+Garg;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%97+%E0%A4%B9%E0%A5%82%E0%A4%81" 
-    alt="Typing SVG" 
-    style="display: inline-block;"
-  />
+<div id="header" align="center">
+  <img align="center" width=750px height=350px alt="side_sticker" src="https://github.com/XAheli/XAheli/blob/main/ghibli.gif" />
+
 </div>
+
+<!-- Typing SVG: Hi I'm Kartik -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=46b9b9&center=true&width=435&lines=Hi%2C+I+am+Kartik+Garg;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%97+%E0%A4%B9%E0%A5%82%E0%A4%81" 
+      alt="Typing SVG" 
+    />
+  </a>
+</h1>
+
+
+
+<!-- Profile Visitor Counter -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://komarev.com/ghpvc/?username=Kg0505&style=for-the-badge&color=46b9b9&label=You+are+Visitor" alt="GitHub Profile Views Counter" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <!-- Funny Deadline Line -->
 <div style="width: 100%; text-align: center; margin-top: 20px;">
@@ -18,17 +38,6 @@
       >
     </em>
   </p>
-</div>
-
-<!-- Profile Visitor Counter -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=Kg0505&style=for-the-badge&color=46b9b9&label=You+are+Visitor" alt="GitHub Profile Views Counter" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 
@@ -138,6 +147,7 @@
 </p>
 
 
+![Kartik Garg](./bottom_header.svg)
 
 
 
