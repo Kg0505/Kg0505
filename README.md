@@ -5,11 +5,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I+am+Kartik+Garg;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A4%E0%A4%BF%E0%A4%95+%E0%A4%97%E0%A4%B0%E0%A5%8D%E0%A4%97+%E0%A4%B9%E0%A5%82%E0%A4%81" alt="Typing SVG" />
   </a>
 
-  <br><br>
+  <br>
 
   <!-- Funny Deadline Line -->
   <p><em>Currently in a long-term relationship with my deadlines… they never leave me. 
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JrN295N2FrbDg2NzRtczVlNzM5aDlyM3cwOTVzZTl2cm94djRibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwxy5MXUWDKlUtQatg/giphy.gif" width="50" style="vertical-align: middle;">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JrN295N2FrbDg2NzRtczVlNzM5aDlyM3cwOTVzZTl2cm94djRibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwxy5MXUWDKlUtQatg/giphy.gif" width="50" align="absmiddle"">
   </em></p>
 
   <br>
@@ -20,7 +20,7 @@
 </div>
 
 <h2> 
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"> 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" height="65"  align="absmiddle"> 
   A little more about me...
 </h2>
 
