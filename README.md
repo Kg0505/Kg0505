@@ -55,7 +55,7 @@
 - 🔍 Passions: Exploring AI/ML more, love cooking, and designing.  
 - 📫 How to reach me: gkartikuk@gmail.com (quickest option).  
 - 😄 Pronouns: he/him
-- 📄 [View My Resume](./OFFCAMPUS_DA_RESUME_OVERLEAF.pdf)
+- 📄 [View My Resume](./Kartik_Garg_Offcampus_Resume.pdf)
 
 
 <p align="center">
